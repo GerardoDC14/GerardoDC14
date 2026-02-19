@@ -48,8 +48,8 @@ My work typically spans autonomy stacks in ROS 2, perception pipelines, embedded
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GerardoDC14&show_icons=true&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoDC14&layout=compact&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GerardoDC14&amp;show_icons=true&amp;hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoDC14&amp;layout=compact&amp;hide_border=true" height="165" alt="Top languages" />
 </div>
 
 ---
