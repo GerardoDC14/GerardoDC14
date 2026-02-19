@@ -45,14 +45,6 @@ My work typically spans autonomy stacks in ROS 2, perception pipelines, embedded
   <img src="https://skillicons.dev/icons?i=cpp,python,matlab,linux,ros,git,docker,opencv,arduino&perline=9" alt="Core skills" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GerardoDC14&amp;show_icons=true&amp;hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoDC14&amp;layout=compact&amp;hide_border=true" height="165" alt="Top languages" />
-</div>
-
----
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/gerardo-escobar-dc/
