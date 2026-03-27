@@ -138,6 +138,15 @@ More broadly, I am interested in how rigorous control and systems engineering ca
   <img width="12" />
 </div>
 
+GitHub Stats:
+<p align="center">
+<a href="https://github.com/NolbertoCastro">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GerardoDC14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GerardoDC14&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 ---
 
 ## Contact
