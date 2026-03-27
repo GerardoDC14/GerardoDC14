@@ -1,6 +1,6 @@
 <h1 align="center">Gerardo Escobar</h1>
 <p align="center">
-  PhD Student • Robotics • Control • Embedded Systems
+  PhD Student in Engineering Sciences • Robotics • Control • Embedded Systems
 </p>
 
 <p align="center">
@@ -22,24 +22,60 @@
 ---
 
 ## About
-I’m a PhD student in Engineering Sciences focused on robotics and control, with a strong emphasis on building and integrating real systems.  
-My work typically spans autonomy stacks in ROS 2, perception pipelines, embedded control, and robust control strategies that hold up outside simulation.
+I am a PhD student in Engineering Sciences working at the intersection of **robotics, control, embedded systems, and intelligent autonomous platforms**. My work focuses on the design, integration, and validation of robotic systems that must operate reliably under real-world constraints, where perception, estimation, control, and hardware implementation cannot be treated as isolated layers.
 
-## Research & engineering focus
-- **Autonomous robotics**: navigation, mapping, exploration, and motion planning (**ROS 2 / Nav2 / SLAM**)
-- **Perception & vision**: camera-based detection/recognition, visual pipelines for robotics (**OpenCV** and custom Python tooling)
-- **Legged & mobile robots**: quadruped locomotion/control, tracked platforms, mobile bases, and **odometry/state estimation**
-- **Robust control**: nonlinear/robust control for real actuators (e.g., **Sliding Mode Control / Super-Twisting**) with practical constraints
-- **Embedded & real-time integration**: **ESP32**, micro-ROS, encoders, PWM motor control, **CAN** communication, sensor/actuator interfacing
-- **System integration**: end-to-end robotics systems (perception ↔ estimation ↔ control ↔ hardware), repeatability, and deployment reliability
+My interests are centered on **autonomous mobile robots, robust nonlinear control, robot perception, embedded communication architectures, and simulation-to-real deployment**. I am particularly interested in building systems that move beyond proof-of-concept simulation and remain consistent when exposed to sensing uncertainty, actuation limits, communication delays, and field conditions.
 
-## Tools & stack
-**Languages:** C/C++, Python, MATLAB  
-**Robotics:** ROS 2 (Humble), ROS (Noetic), Nav2, SLAM toolchains, TF/URDF, RViz, Isaac Sim, Isaac Lab
-**Computer vision:** OpenCV, Tensorflow
-**Scientific Python:** NumPy, SciPy, Pandas, Matplotlib, SymPy  
-**Embedded/Comms:** micro-ROS, ESP32, CAN, UART/I2C/SPI, encoders, PWM  
-**Dev/Infra:** Linux, Git, Docker
+## International robotics trajectory
+Qualified for the **RoboCup Rescue Robot League** in three consecutive editions:
+
+- **2024** — Eindhoven, Netherlands
+- **2025** — Salvador, Brazil
+- **2026** — Incheon, South Korea
+
+## Research interests
+- **Autonomous robotics**: navigation, mapping, exploration, motion planning, and full-stack system integration
+- **Robust and nonlinear control**: sliding mode control, super-twisting algorithms, and control design for real actuators under uncertainty and disturbances
+- **Perception for robotics**: vision-based detection, scene understanding, and sensing pipelines for decision-making in robotic platforms
+- **Embedded robotics systems**: microcontrollers, low-level communication, motor interfacing, encoder acquisition, and real-time integration
+- **Legged and mobile platforms**: odometry, locomotion, state estimation, and control for wheeled, tracked, and quadruped robots
+- **Simulation and validation**: ROS-based workflows, digital prototyping, Isaac Sim / Isaac Lab, and deployment-oriented testing
+
+## Technical domains
+
+### Robotics
+ROS 2 (Humble), ROS (Noetic), Nav2, SLAM, TF, URDF, RViz, Gazebo, Isaac Sim, Isaac Lab
+
+### Programming
+C/C++, Python, MATLAB
+
+### Perception & scientific computing
+OpenCV, TensorFlow, NumPy, SciPy, Pandas, Matplotlib, SymPy
+
+### Embedded systems, robotic hardware platforms & communications
+Embedded control and robotic system integration across microcontroller, SBC, and edge-computing platforms, including ESP32 variants, Arduino-family boards, STM32, NXP boards, Raspberry Pi, Jetson Orin Nano, and Intel NUC; micro-ROS, CAN, UART, I2C, SPI, PWM, encoder interfacing, and motor control
+
+### Sensors & robotic perception hardware
+LiDARs, depth cameras, RGB cameras, and encoder-based feedback systems for perception, localization, mapping, and state estimation
+
+### Infrastructure & development
+Linux, Git, Docker
+
+## Current focus
+My current work is oriented toward the development of robotic systems that combine:
+
+- reliable embedded communication and control
+- perception-driven autonomy
+- real-time integration between hardware and software
+- reproducible experimental workflows for robotics research
+
+More broadly, I am interested in how rigorous control and systems engineering can be combined with modern robotic software stacks to produce platforms that are not only functional, but technically robust and scientifically defensible.
+
+## Selected profile
+- PhD student in Engineering Sciences
+- Focused on robotics, control, and embedded intelligence
+- Interested in bridging theory, implementation, and deployment
+- Building real robotic systems with strong emphasis on integration and reliability
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
@@ -102,6 +138,7 @@ My work typically spans autonomy stacks in ROS 2, perception pipelines, embedded
   <img width="12" />
 </div>
 
+---
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/gerardo-escobar-dc/
+- LinkedIn: [gerardo-escobar-dc](https://www.linkedin.com/in/gerardo-escobar-dc/)
