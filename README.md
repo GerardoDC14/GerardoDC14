@@ -35,8 +35,8 @@ My work typically spans autonomy stacks in ROS 2, perception pipelines, embedded
 
 ## Tools & stack
 **Languages:** C/C++, Python, MATLAB  
-**Robotics:** ROS 2 (Humble), ROS (Noetic), Nav2, SLAM toolchains, TF/URDF, RViz  
-**Computer vision:** OpenCV  
+**Robotics:** ROS 2 (Humble), ROS (Noetic), Nav2, SLAM toolchains, TF/URDF, RViz, Isaac Sim, Isaac Lab
+**Computer vision:** OpenCV, Tensorflow
 **Scientific Python:** NumPy, SciPy, Pandas, Matplotlib, SymPy  
 **Embedded/Comms:** micro-ROS, ESP32, CAN, UART/I2C/SPI, encoders, PWM  
 **Dev/Infra:** Linux, Git, Docker
