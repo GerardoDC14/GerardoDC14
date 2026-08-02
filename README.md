@@ -120,8 +120,8 @@ My active PhD repository remains private while the methodology, experimental pro
 | [Arm-TMR-2026](https://github.com/GerardoDC14/Arm-TMR-2026) | ROS 2 and MoveIt stack for Jaguar and Dicerox rescue manipulators |
 | [TMR2026_Rescue](https://github.com/GerardoDC14/TMR2026_Rescue) | Multi-robot software and firmware integration for RoboCup Rescue 2026 |
 | [CAN-Control-Odrive](https://github.com/GerardoDC14/CAN-Control-Odrive) | Python and ROS 2 tooling for ODrive control through Ginkgo USB-CAN |
-| [TurtleBot3](https://github.com/GerardoDC14/TurtleBot3) | Autonomous exploration, navigation, HAZMAT perception and mechanism control |
-| [5thWheel_5thSemester](https://github.com/GerardoDC14/5thWheel_5thSemester) | STM32 motor-control and telemetry platform for a powered wheelchair fifth wheel |
+| [TurtleBot3-Autonomy-Stack](https://github.com/GerardoDC14/TurtleBot3-Autonomy-Stack) | ROS 2 autonomy stack with frontier exploration, SLAM/Nav2 navigation, HAZMAT map annotation and mechanism control |
+| [Wheelchair-Assist-Drive-Module](https://github.com/GerardoDC14/Wheelchair-Assist-Drive-Module) | STM32-based powered wheelchair assist module with BLDC actuation, encoder feedback, sensing and onboard diagnostics |
 | [RapidlyInterface_Robostem2025](https://github.com/GerardoDC14/RapidlyInterface_Robostem2025) | PyQt6 operator interface integrating video, YOLO, QR and sensor telemetry |
 | [RapidlyMovement_Robostem2025](https://github.com/GerardoDC14/RapidlyMovement_Robostem2025) | ESP32 differential-drive firmware and real-time telemetry GUI |
 
