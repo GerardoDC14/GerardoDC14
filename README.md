@@ -1,153 +1,112 @@
 <h1 align="center">Gerardo Escobar</h1>
 
 <p align="center">
-  <strong>Mechatronics Engineer · Direct PhD Student in Engineering Sciences</strong><br />
-  Robotics & Autonomous Systems · Embedded Control · Full-Stack Product Development · Software Quality
+  <strong>Robotics &amp; Software Engineer · Product Builder</strong><br />
+  From embedded control to the interfaces people use.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gerardo-escobar-dc/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gerardo%20Escobar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/GerardoDC14">
-    <img src="https://img.shields.io/github/followers/GerardoDC14?style=flat-square&logo=github&label=GitHub" alt="GitHub followers" />
-  </a>
+  Mechatronics Engineer · PhD Student in Engineering Sciences<br />
+  Tecnológico de Monterrey · Guadalajara, Mexico
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random engineering quote" />
+  <a href="https://www.linkedin.com/in/gerardo-escobar-dc/">LinkedIn</a> ·
+  <a href="https://orcid.org/0009-0008-4998-9274">ORCID</a> ·
+  <a href="https://gerardodc14.github.io/buut/">Try BUUT</a> ·
+  <a href="./README.es.md">Español</a>
 </p>
 
-## Profile
+---
 
-I design, integrate, and validate systems that connect **robotics, embedded hardware, control, perception, and production software**. My work ranges from low-level motor and sensor interfaces to ROS 2 autonomy, operator applications, distributed web systems, automated validation, and reproducible research workflows.
-
-My current academic work focuses on capability-aware control and skill transfer for mobile robotic manipulators operating under uncertainty. In parallel, I develop practical software and embedded products intended for real users and client environments—not only laboratory demonstrations.
-
-<p align="center"><strong>Build · Integrate · Validate · Deploy</strong></p>
-
-### Robotics, embedded systems and scientific computing
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="38" title="ROS / ROS 2" alt="ROS" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" title="C++" alt="C++" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" title="Python" alt="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="38" title="MATLAB" alt="MATLAB" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="38" title="Arduino and embedded prototyping" alt="Arduino" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="38" title="Raspberry Pi" alt="Raspberry Pi" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="38" title="OpenCV" alt="OpenCV" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="38" title="PyTorch" alt="PyTorch" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="38" title="TensorFlow" alt="TensorFlow" />
-</p>
-
-### Product, web and engineering workflow
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" title="FastAPI" alt="FastAPI" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" title="React" alt="React" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" title="TypeScript" alt="TypeScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" title="JavaScript" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" title="PostgreSQL" alt="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" title="Docker" alt="Docker" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" title="Linux" alt="Linux" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" title="Git" alt="Git" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" title="GitHub" alt="GitHub" />
-</p>
-
-## Core capabilities
-
-| Domain | Capabilities |
-|---|---|
-| **Robotics and autonomy** | Mobile robots, tracked platforms, manipulators, SLAM, localization, navigation, motion planning, sensor fusion, digital twins, simulation-to-real integration |
-| **Control and embedded systems** | Motor control, nonlinear and robust control, real-time firmware, actuator bring-up, encoders, distributed microcontroller architectures, field buses and serial protocols |
-| **Commercial application development** | Full-stack web applications, REST APIs, WebSockets, authentication, databases, desktop/operator interfaces, embedded clients, multi-device synchronization and deployment |
-| **Software quality and validation** | Automated testing, CI/CD, regression analysis, test infrastructure, failure triage, reproducibility, technical documentation and release-oriented verification |
-
-## Technology stack
-
-### Robotics, control and simulation
-
-`ROS 2 Humble` · `ROS Noetic` · `Nav2` · `MoveIt 2` · `SLAM Toolbox` · `robot_localization` · `TF/TF2` · `URDF/Xacro` · `RViz` · `Gazebo` · `MuJoCo` · `Isaac Sim` · `Isaac Lab` · `MATLAB`
-
-### Software and commercial applications
-
-`Python` · `FastAPI` · `React` · `TypeScript` · `JavaScript` · `Vite` · `REST APIs` · `WebSockets` · `SQLAlchemy` · `SQLite` · `PostgreSQL-ready architectures` · `PySide6/Qt` · `Jinja2` · `HTML/CSS`
-
-### Embedded systems and communications
-
-`C/C++` · `ESP32` · `ESP-IDF` · `Arduino` · `PlatformIO` · `STM32` · `NXP S32K` · `Raspberry Pi` · `Jetson Orin Nano` · `Intel NUC` · `micro-ROS` · `CAN/CANopen` · `UART` · `I²C` · `SPI` · `PWM` · `VESC` · `ODrive`
-
-### Perception, data and scientific computing
-
-`OpenCV` · `TensorFlow` · `PyTorch` · `NumPy` · `SciPy` · `Pandas` · `Matplotlib` · `SymPy` · `LiDAR` · `depth cameras` · `thermal sensing` · `visual odometry`
-
-### Engineering workflow and quality
-
-`Linux` · `Git` · `GitHub` · `Docker` · `pytest` · `CI/CD` · `Jenkins` · `Jira` · `TestRail` · `Confluence` · `LaTeX` · `technical documentation`
+I build software products and robotic systems across **web applications, embedded devices, and autonomous machines**. My work connects interface design, system architecture, implementation, and validation—from organizing a notarial workflow to coordinating a robot's sensors and actuators.
 
 ## Selected work
 
-### [PadelSystem](https://github.com/GerardoDC14/PadelSystem) — commercial client platform
+### BUUT · Software for legal and notarial workflows
 
-A distributed multi-court scoring and display-management product developed for a client environment. It connects ESP32 smartwatches, a central FastAPI server, a React web portal, and Raspberry Pi court displays through a shared real-time protocol.
+I develop BUUT across its web interface, backend, data model, and deployment. It brings clients, matters, documents, quotations, and activity history into a shared workflow, with access controls and document versioning.
 
-**Technical scope:** FastAPI, React, TypeScript, WebSockets, SQLAlchemy, authentication and roles, PySide6, ESP-IDF, LVGL, event deduplication, offline-tolerant displays, media synchronization and multi-court state management.
+**Engineering focus:** translating domain requirements into usable screens, enforcing permissions in the backend, and making changes and recovery traceable.
 
-> Client identity, production credentials and operational deployment data are intentionally excluded from the public repository.
+`React` · `TypeScript` · `Rust` · `SQLite`
 
-### [RoboCorea](https://github.com/arepo90/RoboCorea) — collaborative RoboCup Rescue system
+[Explore the public demo](https://gerardodc14.github.io/buut/) — fictional data stored in your browser. The separate private pilot is deployed; domain approval and user acceptance remain in progress. Source code is private.
 
-Contributor to the original team repository—not merely the personal fork—with **14 merged pull requests** covering robot autonomy, perception, operator tooling and hardware integration.
+<p align="center">
+  <a href="https://gerardodc14.github.io/buut/">
+    <img src="assets/buut-demo.jpg" width="840" alt="BUUT public demo: navigation, client and document summaries, and an open matter using fictional data" />
+  </a><br />
+  <sub>BUUT · Public demonstration with fictional data.</sub>
+</p>
 
-Representative contributions include:
+### RoboCorea · Robotics built with a team
 
-- Jetson-side OctoMap generation and 3D voxel visualization;
-- GUI-controlled sensor, I²C and mapping services with clean systemd process ownership;
-- real-robot SLAM, localization and Nav2 workflows on fused odometry;
-- ZED, LiDAR, MLX90640 and magnetometer integration;
-- arm/gripper control, operator GUI improvements and camera bandwidth fixes.
+I contributed **14 merged pull requests** to the team's RoboCup Rescue repository, covering autonomy, perception, operator tools, and hardware integration.
 
-[View merged contributions](https://github.com/arepo90/RoboCorea/pulls?q=is%3Apr+is%3Amerged+author%3AGerardoDC14)
+**Engineering focus:** keeping heavy 3D point-cloud processing on the robot and sending a compact OctoMap to the operator interface to address network congestion. Other contributions connect navigation, sensors, and robot services to operator controls.
 
-### Private doctoral research codebase
+`ROS 2` · `C++` · `Python` · `Nav2` · `OctoMap` · `Jetson`
 
-My active PhD repository remains private while the methodology, experimental protocol and publication strategy are under development. The research focuses on capability-conditioned control and task-space skill transfer across robotic embodiments, with reproducible simulation and hardware-validation pipelines.
+[Team repository](https://github.com/arepo90/RoboCorea) · [Merged contributions](https://github.com/arepo90/RoboCorea/pulls?q=is%3Apr+is%3Amerged+author%3AGerardoDC14) · [3D mapping implementation](https://github.com/arepo90/RoboCorea/pull/14)
 
-### Additional public robotics projects
+### PadelSystem · A connected product across four interfaces
+
+I develop a court-scoring platform connecting ESP32 wearables, a React management portal, a FastAPI server, and Raspberry Pi displays.
+
+**Engineering focus:** one authoritative match state, duplicate-event handling, and displays that retain state through temporary disconnections. The project is in development and deployment preparation.
+
+`FastAPI` · `React` · `TypeScript` · `WebSockets` · `ESP-IDF` · `Raspberry Pi`
+
+[Source, product screenshots & architecture](https://github.com/GerardoDC14/PadelSystem)
+
+## Currently building
+
+<!-- CURRENT-FOCUS:START -->
+*Reviewed: 16 November 2026*
+
+| Workstream | Current stage | Focus |
+|---|---|---|
+| **BUUT** | Private pilot deployed; public demo available | Workflow refinement, validation, and acceptance |
+| **Doctoral research** | Research in development; private codebase | Capability-aware control and skill transfer across robotic embodiments |
+| **Desk Hub Robotec** | Public hardware and interface project | Touch interaction, persistent state, and service integration on Raspberry Pi |
+<!-- CURRENT-FOCUS:END -->
+
+[Explore Desk Hub Robotec](https://github.com/GerardoDC14/desk-hub-robotec) for interface previews, architecture, and setup documentation.
+
+## Engineering ownership & collaboration
+
+- **Product delivery:** connect user workflows to frontend, backend, deployment, and recovery procedures in BUUT.
+- **Team integration:** contribute reviewable changes to a shared robotics codebase, with implementation notes and validation evidence.
+- **Engineering communication:** document architecture, operating procedures, and known limits so others can run and assess the work.
+
+## Research & trajectory
+
+**Current · Doctoral studies in Engineering Sciences, Tecnológico de Monterrey**  
+Research direction: capability-aware control and task-space skill transfer for mobile manipulation under uncertainty.
+
+**2024–2026 · RoboCup Rescue Robot League**  
+Qualified for three consecutive editions: Eindhoven, Salvador, and Incheon.
+
+## More engineering work
 
 | Project | Focus |
 |---|---|
-| [Arm-TMR-2026](https://github.com/GerardoDC14/Arm-TMR-2026) | ROS 2 and MoveIt stack for Jaguar and Dicerox rescue manipulators |
-| [TMR2026_Rescue](https://github.com/GerardoDC14/TMR2026_Rescue) | Multi-robot software and firmware integration for RoboCup Rescue 2026 |
-| [CAN-Control-Odrive](https://github.com/GerardoDC14/CAN-Control-Odrive) | Python and ROS 2 tooling for ODrive control through Ginkgo USB-CAN |
-| [TurtleBot3-Autonomy-Stack](https://github.com/GerardoDC14/TurtleBot3-Autonomy-Stack) | ROS 2 autonomy stack with frontier exploration, SLAM/Nav2 navigation, HAZMAT map annotation and mechanism control |
-| [Wheelchair-Assist-Drive-Module](https://github.com/GerardoDC14/Wheelchair-Assist-Drive-Module) | STM32-based powered wheelchair assist module with BLDC actuation, encoder feedback, sensing and onboard diagnostics |
-| [RapidlyInterface_Robostem2025](https://github.com/GerardoDC14/RapidlyInterface_Robostem2025) | PyQt6 operator interface integrating video, YOLO, QR and sensor telemetry |
-| [RapidlyMovement_Robostem2025](https://github.com/GerardoDC14/RapidlyMovement_Robostem2025) | ESP32 differential-drive firmware and real-time telemetry GUI |
+| [Arm-TMR-2026](https://github.com/GerardoDC14/Arm-TMR-2026) | Manipulation, MoveIt 2, and actuator integration |
+| [CAN-Control-Odrive](https://github.com/GerardoDC14/CAN-Control-Odrive) | Motor-control tooling, telemetry, and CAN integration |
+| [TurtleBot3 Autonomy Stack](https://github.com/GerardoDC14/TurtleBot3-Autonomy-Stack) | Exploration and navigation; historical portfolio reference |
+| [Wheelchair Assist Drive Module](https://github.com/GerardoDC14/Wheelchair-Assist-Drive-Module) | STM32 firmware, BLDC actuation, and onboard diagnostics |
 
-## International robotics trajectory
+<details>
+<summary><strong>Tools I work with</strong></summary>
 
-Qualified for the **RoboCup Rescue Robot League** in three consecutive editions:
+- **Software & interfaces:** Python, Rust, React, TypeScript, FastAPI, Qt, SQLite.
+- **Robotics & control:** ROS 2, Nav2, MoveIt 2, C/C++, MATLAB, OpenCV.
+- **Embedded systems:** ESP32, STM32, Raspberry Pi, Jetson, CAN, UART, I²C, SPI.
+- **Delivery & validation:** Git, Linux, Docker, pytest, Playwright, GitHub Actions.
 
-- **2024 — Eindhoven, Netherlands**
-- **2025 — Salvador, Brazil**
-- **2026 — Incheon, South Korea**
+</details>
 
-## Current focus
+---
 
-- capability-aware and robust control for mobile manipulation;
-- autonomous navigation and mapping for tracked rescue robots;
-- embedded communication and actuator-control architectures;
-- client-facing connected products spanning web, desktop and firmware;
-- validation workflows that connect research rigor with deployment constraints.
-
-## GitHub activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GerardoDC14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GerardoDC14&layout=compact&langs_count=8&theme=algolia" alt="Most used languages" />
-</p>
-
-## Contact
-
-- LinkedIn: [gerardo-escobar-dc](https://www.linkedin.com/in/gerardo-escobar-dc/)
+Interested in robotics, connected products, or software development? [Connect with me on LinkedIn](https://www.linkedin.com/in/gerardo-escobar-dc/).
